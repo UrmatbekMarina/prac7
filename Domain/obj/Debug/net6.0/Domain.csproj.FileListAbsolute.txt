@@ -1,0 +1,98 @@
+C:\Users\user\Desktop\MRN2\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\MRN2\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\MRN2\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\MRN2\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MRN2\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MRN2\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MRN2\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\MRN2\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MRN2\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\MRN2\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\MRN2\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\MRN2\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\MRN2\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\user\Desktop\MRN2\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (5)\MRN2\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика\MRN2\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\urmat\OneDrive\Рабочий стол\практика2\MRN2\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\task5\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\task5\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\user\Desktop\task5\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\task5\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\task5\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\task5\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\task5\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\task5\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\task5\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\task5\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\task5\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\task5\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\task5\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Desktop\task5\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\t7\task6\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\t7\task6\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\user\Desktop\t7\task6\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\t7\task6\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\t7\task6\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\t7\task6\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\t7\task6\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\t7\task6\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\t7\task6\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\t7\task6\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\t7\task6\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\t7\task6\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\t7\task6\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\user\Desktop\t7\task6\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Практика\task7\task6\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Практика\task7\task6\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+D:\Практика\task7\task6\Domain\bin\Debug\net6.0\Domain.dll
+D:\Практика\task7\task6\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Практика\task7\task6\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Практика\task7\task6\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\task7\task6\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Практика\task7\task6\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Практика\task7\task6\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Практика\task7\task6\Domain\obj\Debug\net6.0\Domain.dll
+D:\Практика\task7\task6\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Практика\task7\task6\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Практика\task7\task6\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+D:\Практика\task7\task6\Domain\obj\Debug\net6.0\ref\Domain.dll
